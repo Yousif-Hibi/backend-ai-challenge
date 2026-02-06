@@ -4,6 +4,7 @@ intensive architectural pivot: Building high-integrity data systems, retrieval-a
 
 To master the professional backend lifecycle and the "AI Stack," building systems that don't just display data, but "think" using custom retrieval systems.
 📅 Progress Tracker
+
 1: The Backend Architect
 
 Goal: Move from "visual sites" to "data integrity."
